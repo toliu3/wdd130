@@ -1,23 +1,26 @@
-body {
+nav,footer {
     text-align: center;
-}
-nav，footer {
-    background-color: rgb(17, 203, 113);
+    background-color: rgb(84, 231, 160);
     padding: 10px;
 }
 a {
+   font-size: 1em;
     color: white;
     margin: 40px;
     line-height: 1.5em;
 }
 h1, h2 {
+    text-align: center;
     color: rgb(65, 17, 160);
 }
 img {
-    width: 800px;
+    width: 35%;
+    display: block;
+    margin: 0 auto;
     border: 4px solid steelblue;
 }
 p {
+    text-align: center;
     padding: 10px;
 }
 #active {
@@ -29,3 +32,4 @@ a:hover {
     background-color: white;
     color: steelblue;
 }
+
