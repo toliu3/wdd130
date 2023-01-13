@@ -1,7 +1,7 @@
 body {
     text-align: center;
 }
-nav {
+nav，footer {
     background-color: rgb(17, 203, 113);
     padding: 10px;
 }
@@ -21,6 +21,11 @@ p {
     padding: 10px;
 }
 #active {
+    background-color: white;
+    color: steelblue;
+}
+
+a:hover {
     background-color: white;
     color: steelblue;
 }
