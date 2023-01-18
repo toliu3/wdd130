@@ -17,10 +17,6 @@ nav a {
 main section{
     text-align: center;
 }
-#background {
-    height: 725px;
-    background-color: ;
-}
 body {
     background-color:#fcfbfb;
     font-family: Raleway, Arial, sans-serif;
@@ -52,7 +48,9 @@ nav a:hover {
 }
 #background {
     background-color: #d9c2a3;
+    height: 700px;
     margin: 100px 0;
+  
 }
 .msg {
     background-color: rgb(133, 228, 197);
@@ -109,8 +107,9 @@ main section img {
 }
 section h1 {
     font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace;
-    font-size: 2em;
+    font-size: 3em;
     margin-top: 10px;
+    color: rgb(186, 106, 49);
 }
 footer img {
   padding-top: 15px;
