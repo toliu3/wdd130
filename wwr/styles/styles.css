@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Merienda:wght@500&family=Pacifico&family=Permanent+Marker&display=swap');
 #content {
     max-width: 1600px;
     margin: 0 auto;
 }
 nav a {
+    padding: 35px;
     text-align: center;
     text-decoration: none;
 }
@@ -20,7 +22,11 @@ main section{
     background-color: ;
 }
 body {
-    background-color: white;
+    background-color:#fcfbfb;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 header {
     background-color: #327bab;
@@ -30,25 +36,43 @@ nav a:hover {
     color: steelblue;
 }
 .book, .join {
+    padding: 15px 30px;
     background-color: #dfd7ec;
     text-decoration: none;
+    font-size: 18px;
+    margin-top: 50px;
+    border-radius: 5px;
+    color: rgb(218, 18, 28);
 }
 .book:hover, .join:hover {
     background-color: white;
     color: black;
     text-decoration: underline;
+    
 }
 #background {
-    background-color: rgb(222, 165, 144);
+    background-color: #d9c2a3;
+    margin: 100px 0;
 }
 .msg {
-    background-color: aquamarine;
+    background-color: rgb(133, 228, 197);
+    line-height: 1.5em;
+    padding: 35px;
+    margin: 100px 0;
 }
+.msg p {
+    font-size: 0.8em;
+    padding: 15px;
+}
+
 footer {
     background-color: rgb(241, 185, 117);
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 .logo, .icon {
     width: 80px;
+    padding-top: 10px;
 }
 #hero-img {
     width:100% ;
@@ -61,4 +85,36 @@ footer p {
 }
 footer p a:hover {
     text-decoration: underline;
+}
+    line-height: 2em;
+.home-title {
+    font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace;
+    font-size: 2em;
+    margin-top: 10px;
+}
+h2 {
+    margin: 0;
+}
+#logo_link {
+    padding-top: 5px;
+}
+.rivers-card, .camping-card, .rapids-card {
+    margin:200px 0;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
+}
+section h1 {
+    font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace;
+    font-size: 2em;
+    margin-top: 10px;
+}
+footer img {
+  padding-top: 15px;
+}
+.mountains {
+    width: 50%;
 }
