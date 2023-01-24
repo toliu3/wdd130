@@ -85,8 +85,8 @@ nav a:hover {
 }
 .msg {
     background-color: rgb(133, 228, 197);
-    font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace;
     padding: 35px;
+    font-size: 1.1em;
     grid-column: 6/10;
     grid-row: 6/7;
     box-shadow: 5px 5px 10px #6f7364;
