@@ -89,7 +89,7 @@ nav a:hover {
     padding: 35px;
     margin: 100px 0;
     grid-column: 6/10;
-    grid-row: 6/7;
+    grid-row: 4/6;
     box-shadow: 5px 5px 10px #6f7364;
 }
 .msg p {
