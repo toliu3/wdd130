@@ -87,17 +87,20 @@ nav a:hover {
 }
 .pone{
     padding: 25px;
-    line-height: 1.3em;
+    line-height: 1.2em;
 }
 .ptwo{
     padding: 25px 35px 25px 45px;
-    line-height: 1.3em;
-    margin-right: 20px;   
+    line-height: 1.2em;
+    margin-right: 20px;
+   
 }
 .pthree{
     padding: 40px 50px;
-    line-height: 1.3em;
+    line-height: 1.2em;
     margin: 2px;
+    align-items: center;
+
   
 }
 
