@@ -88,6 +88,8 @@ nav a:hover {
 .pone{
     padding: 25px;
     line-height: 1.2em;
+    align-items: center;
+
 }
 .ptwo{
     padding: 20px 35px 25px 25px;
