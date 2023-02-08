@@ -52,6 +52,18 @@ nav a:hover {
     text-align: center;
 }
 
+.pone{
+    padding: 25px;
+    line-height: 1.2em;
+    align-items: center;
+
+}
+.ptwo{
+    padding: 20px 35px 25px 25px;
+    line-height: 1.2em;
+    margin-right: 20px;
+    align-items: center;
+}
 
 
 
