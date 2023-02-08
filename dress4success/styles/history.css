@@ -90,9 +90,11 @@ nav a:hover {
     line-height: 1.2em;
 }
 .ptwo{
-    padding: 25px 35px 25px 45px;
+    padding: 20px 35px 25px 25px;
     line-height: 1.2em;
     margin-right: 20px;
+    align-items: center;
+
    
 }
 .pthree{
