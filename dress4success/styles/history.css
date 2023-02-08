@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Merienda&family=PT+Mono&display=swap');
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+nav a {
+    padding: 35px;
+    text-align: center;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color: white;
+    color: steelblue;
+}
+
+.logo, .icon {
+    width: 130px;
+    margin-top: 5px;
+    margin-left: 5px;
+   
+}
+main section{
+    text-align: center;
+}
+body {
+    background-color:#bfcbc2;
+    font-family: Georgia,Merienda,sans-serif;
+    font-size: 25px;
+    margin: 5px;
+    padding: 0;
+}
+header {
+    background-color: #abc43d;
+    display: grid;
+    grid-template-columns: 150px auto;
+    font-size: 1.3em;
+    align-items: center;
+
+}
+nav a:hover {
+    background-color: white;
+    color: steelblue;
+}
+
+.title {
+    font-family: Merienda,Bitstream Vera Sans Mono, sans-serife;
+    font-size: 2.7em;
+    margin-top: 15px;
+    text-align: center;
+}
+.history-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+
+}
+
+.china_map-img{
+    border: 40px rgb(88, 151, 234) solid;
+    border-left: 80px rgb(88, 151, 234) solid;
+    border-right: 80px rgb(88, 151, 234) solid;
+    margin-left: 20px;
+    margin-top: 0;
+    z-index: 5;
+    position:relative
+}
+.inside-img {
+    max-width: 90%;
+    border: 50px rgb(173, 222, 104) solid;
+    margin-top: -80px;
+    margin-left: -30px;
+    z-index: 1;
+    position:relative
+}
+.inside2-img {
+    max-width: 80%;
+    border: 50px rgb(237, 84, 84) solid;
+    border-left: 70px rgb(237, 84, 84) solid;
+    border-right: 70px rgb(237, 84, 84) solid;
+    margin-left: 20px;
+    margin-top: -110px;
+
+}
+.pone{
+    padding: 25px;
+    line-height: 1.3em;
+    margin: 2px;
+}
+.ptwo{
+    padding: 25px 35px 25px 45px;
+    line-height: 1.3em;
+    margin-right: 20px;   
+}
+.pthree{
+    padding: 60px 50px;
+    line-height: 1.3em;
+    margin: 2px;
+  
+}
+
+footer {
+    background-color: #bd439f;
+    padding: 25px 50px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer a {
+    text-decoration: none;
+}
+footer p {
+    font-size: 1.2em;
+}
+footer p a:hover {
+    text-decoration: underline;
+}
