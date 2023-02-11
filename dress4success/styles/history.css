@@ -14,7 +14,7 @@ nav a {
 }
 nav a:hover {
     background-color: white;
-    color: steelblue;
+    color: rgb(228, 97, 154);
 }
 
 .logo, .icon {
@@ -41,10 +41,6 @@ header {
     align-items: center;
 
 }
-nav a:hover {
-    background-color: white;
-    color: steelblue;
-}
 
 .title {
     font-family: Merienda,Bitstream Vera Sans Mono, sans-serife;
@@ -55,8 +51,6 @@ nav a:hover {
 .history-grid{
     display: grid;
     grid-template-columns: 1fr 1fr;
-
-
 }
 
 .china_map-img{

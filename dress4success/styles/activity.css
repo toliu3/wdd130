@@ -14,7 +14,7 @@ nav a {
 }
 nav a:hover {
     background-color: white;
-    color: steelblue;
+    color: rgb(228, 99, 202);
 }
 
 .logo, .icon {
@@ -39,12 +39,8 @@ header {
     grid-template-columns: 150px auto;
     font-size: 1.3em;
     align-items: center;
+}
 
-}
-nav a:hover {
-    background-color: white;
-    color: steelblue;
-}
 .title {
     font-family: Merienda,Bitstream Vera Sans Mono, sans-serife;
     font-size: 2.7em;
@@ -64,10 +60,39 @@ nav a:hover {
     margin-right: 20px;
     align-items: center;
 }
+.activity-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 
+}
+.banquet{
+    margin-left: 40px;
+    border: 40px rgb(88, 151, 234) solid;
 
+}
 
+.pone{
+    border: 1px black solid;
+    background-color: goldenrod;
+    margin:130px 70px 190px -180px;
+    line-height: 1.2em;
+    padding-left: 50px;
+}
+.genealogy-img{
+    width: 45%;
+    margin: 50px  200px;
+    border: 35px rgb(88, 151, 234) solid;
 
+}
+.ptwo{
+    line-height: 1.3em;
+    margin: 150px 150px 130px -80px;
+
+}
+main a:hover{
+        background-color: white;
+        color: rgb(228, 99, 202);
+} 
 
 footer {
     background-color: #bd439f;
@@ -78,7 +103,7 @@ footer {
     align-items: center;
 }
 
-footer a {
+footer a{
     text-decoration: none;
 }
 footer p {
