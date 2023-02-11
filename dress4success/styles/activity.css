@@ -65,23 +65,23 @@ header {
     grid-template-columns: 1fr 1fr;
 
 }
-.banquet{
+.banquet-img{
     margin-left: 40px;
     border: 40px rgb(88, 151, 234) solid;
-
 }
+
 
 .pone{
     border: 1px black solid;
     background-color: goldenrod;
-    margin:130px 70px 190px -180px;
+    margin:145px 70px 190px -180px;
     line-height: 1.2em;
     padding-left: 50px;
 }
 .genealogy-img{
     width: 45%;
     margin: 50px  200px;
-    border: 35px rgb(88, 151, 234) solid;
+    border: 40px rgb(88, 151, 234) solid;
 
 }
 .ptwo{
