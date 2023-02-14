@@ -89,10 +89,11 @@ nav a:hover {
 .gate{
     grid-column: 1/7;
     grid-row: 3/5;
-    background-color: #10a4d5;
     margin: 20px;
     padding: 0px;
     margin-top: -120px;
+    background-color: #10a4d5;
+
 
 }
 .gate-img{
